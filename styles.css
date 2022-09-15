@@ -17,7 +17,7 @@ header div{
     display: flex;
     padding: 4px;
 
-    animation: fromtop 1s .3s backwards;
+    animation: fromtop .8s .3s backwards;
     transition: transform .3s;
 }
 
