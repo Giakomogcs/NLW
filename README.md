@@ -7,7 +7,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
- [🔗 Clique aqui para acessar!]  (https://giakomogcs.github.io/NLW-esports-explorer/)
+ [🔗 Clique aqui para acessar!](https://giakomogcs.github.io/NLW-esports-explorer/)
 
 ## Tecnologias
 
